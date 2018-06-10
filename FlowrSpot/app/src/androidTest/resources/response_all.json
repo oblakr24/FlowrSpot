@@ -1,0 +1,188 @@
+{
+  "flowers": [
+    {
+      "id": 123,
+      "name": "TestName",
+      "latin_name": "TestNameLatin",
+      "sightings": 321,
+      "profile_picture": "testImageUrl",
+      "favorite": true
+    },
+    {
+      "id": 2,
+      "name": "Lily",
+      "latin_name": "Liliy in latin",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/002/medium/dahlia-1627138_960_720.jpg?1519073382",
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "name": "Purple",
+      "latin_name": "Purple in latin",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/003/medium/dahlia-1627138_960_720.jpg?1519073409",
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "name": "Velvetleaf",
+      "latin_name": "Abutilon theophrasti",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/004/medium/L_006040510.jpg?1527514171",
+      "favorite": false
+    },
+    {
+      "id": 5,
+      "name": "Daisy",
+      "latin_name": "Bellis perennis",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/005/medium/L_3-0365_IMG.JPG?1527514193",
+      "favorite": false
+    },
+    {
+      "id": 6,
+      "name": "Marsh-marigold",
+      "latin_name": "Caltha palustris",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/006/medium/L_3-0353_IMG.JPG?1527514211",
+      "favorite": false
+    },
+    {
+      "id": 7,
+      "name": "Alpski volcin",
+      "latin_name": "Daphne alpina",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/007/medium/L_00010.jpg?1527514226",
+      "favorite": false
+    },
+    {
+      "id": 8,
+      "name": "Checkered Lily",
+      "latin_name": "Fritillaria meleagris",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/008/medium/L_9_0972.JPG?1527514310",
+      "favorite": false
+    },
+    {
+      "id": 9,
+      "name": "Svilnata kosenicica",
+      "latin_name": "Genista sericea",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/009/medium/L_0_00823.JPG?1527514320",
+      "favorite": false
+    },
+    {
+      "id": 10,
+      "name": "Temnoskrlatni teloh",
+      "latin_name": "Helleborus atrorubens",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/010/medium/L_G_2945.JPG?1527514335",
+      "favorite": false
+    },
+    {
+      "id": 11,
+      "name": "Srhklodklavi oman",
+      "latin_name": "Innula hirta",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/011/medium/T_0_10030.JPG?1527514345",
+      "favorite": false
+    },
+    {
+      "id": 12,
+      "name": "Drobnolistni lan",
+      "latin_name": "Linum tenuifolium",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/012/medium/L_2-6230_IMG.JPG?1527514470",
+      "favorite": false
+    },
+    {
+      "id": 13,
+      "name": "Ostrolistni slezenovec",
+      "latin_name": "Malva alcea",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/013/medium/L_2-6223_img.jpg?1527514530",
+      "favorite": false
+    },
+    {
+      "id": 14,
+      "name": "Bee orchid",
+      "latin_name": "Ophrys apifera",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/014/medium/L_00010.jpg?1527514642",
+      "favorite": false
+    },
+    {
+      "id": 15,
+      "name": "Julijski mak",
+      "latin_name": "Papaver alpinum ssp. ernesti-mayeri",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/015/medium/T_120010.JPG?1527514700",
+      "favorite": false
+    },
+    {
+      "id": 16,
+      "name": "St. Anthony's turnip",
+      "latin_name": "Ranunculus bulb",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/016/medium/T_1-5104_IMG.JPG?1527514858",
+      "favorite": false
+    },
+    {
+      "id": 17,
+      "name": "Squill",
+      "latin_name": "Scilla bifolia",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/017/medium/L_2-0230_IMG.JPG?1527514910",
+      "favorite": false
+    },
+    {
+      "id": 18,
+      "name": "Obirska sivica",
+      "latin_name": "Tephroseris longifolia",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/018/medium/L_0-1051_IMG.JPG?1527514967",
+      "favorite": false
+    },
+    {
+      "id": 19,
+      "name": "Vrednoki jeticnik",
+      "latin_name": "Veronica chamaedrys",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/019/medium/L_0_00823.JPG?1527515022",
+      "favorite": false
+    },
+    {
+      "id": 20,
+      "name": "Swallovwort",
+      "latin_name": "Vincetoxicum hirundinaria",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/020/medium/T_8-0873_IMG.jpg?1527515067",
+      "favorite": false
+    },
+    {
+      "id": 1,
+      "name": "Goosefoot Violet",
+      "latin_name": "Viola purpurea",
+      "sightings": 1,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/001/medium/viola.jpg?1505132614",
+      "favorite": false
+    },
+    {
+      "id": 21,
+      "name": "Ljubicica",
+      "latin_name": "Ljbicica latinski",
+      "sightings": 0,
+      "profile_picture": "//flowrspot.s3.amazonaws.com/flowers/profile_pictures/000/000/021/medium/images.jpg?1528071541",
+      "favorite": false
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "current_page": 1,
+      "prev_page": null,
+      "next_page": null,
+      "total_pages": 1
+    }
+  }
+}

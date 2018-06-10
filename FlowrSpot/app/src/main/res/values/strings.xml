@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FlowrSpot</string>
+
+
+    <string name="home_title_discover_flowers">Discover flowers \n around you</string>
+    <string name="home_subtitle_explore">Explore between more than 8.427 sightings</string>
+
+    <string name="pattern_flower_sightings">%d sightings</string>
+
+    <string name="search_hint">Looking for something specific?</string>
+
+    <string name="general_not_implemented">Not implemented yet</string>
+
+
+    <string name="empty_no_data">We couldn\'t find anything matching your query</string>
+    <string name="empty_no_network">No network connection</string>
+    <string name="empty_timeout">The request took too long to execute, please try again</string>
+    <string name="empty_error_try_again">There was a problem fetching the data, please try again</string>
+
+</resources>

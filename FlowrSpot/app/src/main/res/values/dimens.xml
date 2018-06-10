@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="search_bottom_margin_large">60dp</dimen>
+    <dimen name="search_bottom_margin_small">14dp</dimen>
+
+    <dimen name="toolbar_height">45dp</dimen>
+
+    <dimen name="bottom_nav_height">60dp</dimen>
+
+</resources>
